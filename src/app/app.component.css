@@ -1,0 +1,61 @@
+ .company.ui-organizationchart .ui-organizationchart-node-content{
+            padding: 0;
+            border: 0 none;
+        }
+
+        .node-element {
+            border: 1px solid #9b9c9c;  
+            border-radius: 5px;     
+            width: 100px; 
+            height: 100px;
+             text-align: center;
+            
+        }
+
+        
+        
+        .node-header,.node-content {
+            padding: .5em .7em;
+        }
+        
+        .node-header {
+            color: #ffffff;
+            border-radius: 100%;
+            width: 40px;
+            height: 40px;
+            display: inline-block;
+            margin-top: 5px;
+        }
+
+        .node-header.general-info-node {
+           border: 1px solid #8bc3c5fd;
+           background-color: #8bc3c5fd;
+        }
+
+        .node-header.rate-node {
+            border: 1px solid #b17cb1fd;  
+            background-color: #b17cb1fd;
+          
+        }
+
+          .node-header.fund-node {
+            background-color: #5f71a1fd;
+            border: 1px solid #5f71a1fd;  
+        }
+        
+           
+
+
+        .line {
+          border-left: 1px solid #9b9c9c;
+          margin-left: 172px;
+        }
+
+.ui-tree.ui-tree-horizontal.ui-widget.ui-widget-content.ui-corner-all.ui-tree-selectable.ng-star-inserted
+{
+  border: none;
+
+    background-color: transparent;
+}
+
+        
